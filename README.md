@@ -1,3 +1,2 @@
 # Data analysis
-power bi
-for test
+Interactive dashboards by using Power Bi
